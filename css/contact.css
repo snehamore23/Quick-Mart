@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -127,3 +128,15 @@ nav ul li a:hover {
     font-weight: bold;
 }
 /* * ================= FOOTER ================= */ 
+=======
+.map{
+margin-top:30px;
+border-radius:10px;
+overflow:hidden;
+}
+
+.contact-info{
+margin-bottom:20px;
+line-height:1.8;
+}
+>>>>>>> e61e8fd (images changes)
